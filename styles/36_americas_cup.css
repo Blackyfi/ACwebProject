@@ -2,7 +2,7 @@
 
 body   /* Style à appliquer sur l'ensemble du document */
 {
-  background-color: #72B6E2 ;  /* Couleur de fond : bleu */
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,106,1) 35%, rgba(158,74,152,1) 60%, rgba(255,0,0,1) 99%);  /* Couleur de fond : bleu */
   margin-right: 2%;           /* Gestion des marges latérales */
   margin-left: 2%;
   font-family: Helvetica, Arial, sans-serif;
